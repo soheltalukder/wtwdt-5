@@ -1,0 +1,23 @@
+.h2{
+    background-color: #025656;
+    font-size: 50px;
+    text-shadow: 30px;
+    text-align: center;
+    color: rgb(248, 151, 99);
+}
+
+.p1{
+    font-size: 30px;color: blue;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: justify;background-color: rgb(194, 194, 194);
+
+ }
+.p2{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: brown;color: brown;
+ }
+ .h3{
+    color: white;
+    background-color: rgb(230, 71, 3);
+    background-blend-mode: color;
+    text-align: center;
+ }
